@@ -6,10 +6,15 @@ This repository is a practical QA Automation portfolio demonstrating my experien
 The focus of this project is to show how I design, write, and maintain realistic, reliable UI automation that fits into a modern development workflow not just isolated test scripts.
 
 **Problem This Project Addresses**
+
 In real projects, UI automation often:
+
 Becomes flaky and unreliable
+
 Lacks structure and scalability
+
 Provides little value in CI/CD
+
 Is hard to debug when tests fail
 
 **This project solves those issues by:**
