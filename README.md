@@ -2,7 +2,45 @@
 
 ## Overview
 
-This repository is a **professional portfolio** demonstrating my approach to **quality engineering, test automation, and CI/CD integration** for a modern web-based SaaS application with REST APIs. It is structured to show recruiters and hiring managers my practical experience in both **manual and automated testing**, aligned with **UK QA Engineer / SDET expectations**.
+This repository is a practical QA Automation portfolio demonstrating my experience as Quality Engineer / SDET working with Playwright and TypeScript.
+The focus of this project is to show how I design, write, and maintain realistic, reliable UI automation that fits into a modern development workflow not just isolated test scripts.
+
+**Problem This Project Addresses**
+In real projects, UI automation often:
+Becomes flaky and unreliable
+Lacks structure and scalability
+Provides little value in CI/CD
+Is hard to debug when tests fail
+
+**This project solves those issues by:**
+Using Playwright’s auto-waiting and tracing
+Applying Page Object Model (POM) for maintainability
+Automating critical user workflows
+Making tests CI-ready and debuggable
+Producing clear execution reports
+
+**⚙️ Tech Stack**
+
+Playwright – UI automation (fast, stable, cross-browser)
+TypeScript – Type safety and scalable test design
+Node.js / npm – Dependency management
+GitHub Actions – CI execution
+Playwright HTML Reports – Test visibility and debugging
+
+**🧪 What Is Automated**
+
+This project automates business-critical UI scenarios, such as:
+User login and authentication flows
+Form submission and validation
+Navigation and page state verification
+Positive and negative test cases
+Cross-browser testing (Chromium / Firefox / WebKit)
+
+**Tests are:**
+Independent and repeatable
+Written with meaningful assertions
+Free of hard waits
+Designed to run reliably in CI
 
 ---
 
