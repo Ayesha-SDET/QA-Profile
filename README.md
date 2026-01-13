@@ -18,33 +18,51 @@ Provides little value in CI/CD
 Is hard to debug when tests fail
 
 **This project solves those issues by:**
+
 Using Playwright’s auto-waiting and tracing
+
 Applying Page Object Model (POM) for maintainability
+
 Automating critical user workflows
+
 Making tests CI-ready and debuggable
+
 Producing clear execution reports
 
 **⚙️ Tech Stack**
 
 Playwright – UI automation (fast, stable, cross-browser)
+
 TypeScript – Type safety and scalable test design
+
 Node.js / npm – Dependency management
+
 GitHub Actions – CI execution
+
 Playwright HTML Reports – Test visibility and debugging
 
 **🧪 What Is Automated**
 
 This project automates business-critical UI scenarios, such as:
+
 User login and authentication flows
+
 Form submission and validation
+
 Navigation and page state verification
+
 Positive and negative test cases
+
 Cross-browser testing (Chromium / Firefox / WebKit)
 
 **Tests are:**
+
 Independent and repeatable
+
 Written with meaningful assertions
+
 Free of hard waits
+
 Designed to run reliably in CI
 
 ---
