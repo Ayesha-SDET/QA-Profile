@@ -1,21 +1,10 @@
-Absolutely. Below is a **concise, high-impact README.md** that sounds **mid-level, practical, and interview-ready**, without being verbose or academic.
-This is the kind of README a **real hiring manager will actually read**.
-
-You can paste this directly as your `README.md`.
-
----
-
-# 🧪 QA Automation Portfolio – Playwright + TypeScript
-
 ## 👋 Overview
 
-This repository is a **practical QA Automation portfolio** demonstrating my experience as a **mid-level Quality Engineer / SDET** working with **Playwright and TypeScript**.
-
-The focus of this project is to show how I design, write, and maintain **realistic, reliable UI automation** that fits into a modern development workflow — not just isolated test scripts.
+This repository demonstrating my experience as a Quality Engineer / SDET working with Playwright and TypeScript.The focus of this project is to show how I design, write, and maintain realistic, reliable UI automation that fits into a modern development workflow — not just isolated test scripts.
 
 ---
 
-## 🎯 Problem This Project Addresses
+## Problem This Project Addresses
 
 In real projects, UI automation often:
 
@@ -24,31 +13,25 @@ In real projects, UI automation often:
 * Provides little value in CI/CD
 * Is hard to debug when tests fail
 
-### ✅ This project solves those issues by:
+### This project solves those issues by:
 
-* Using **Playwright’s auto-waiting and tracing**
-* Applying **Page Object Model (POM)** for maintainability
-* Automating **critical user workflows**
-* Making tests **CI-ready and debuggable**
-* Producing **clear execution reports**
+* Using Playwright’s auto-waiting and tracing
+* Applying Page Object Model (POM) for maintainability
+* Automating critical user workflows
+* Making tests CI-ready and debuggable
+* Producing clear execution reports
 
----
+## Tech Stack
 
-## ⚙️ Tech Stack
+* Playwright – UI automation (fast, stable, cross-browser)
+* TypeScript – Type safety and scalable test design
+* Node.js / npm – Dependency management
+* GitHub Actions – CI execution
+* Playwright HTML Reports – Test visibility and debugging
 
-* **Playwright** – UI automation (fast, stable, cross-browser)
-* **TypeScript** – Type safety and scalable test design
-* **Node.js / npm** – Dependency management
-* **GitHub Actions** – CI execution
-* **Playwright HTML Reports** – Test visibility and debugging
+##  What Is Automated
 
-All tools are commonly used in **real product teams**.
-
----
-
-## 🧪 What Is Automated
-
-This project automates **business-critical UI scenarios**, such as:
+This project automates business-critical UI scenarios, such as:
 
 * User login and authentication flows
 * Form submission and validation
@@ -79,9 +62,6 @@ QA-Profile/
 ├── package.json
 └── README.md
 ```
-
-This structure reflects **industry best practices** for scalable automation.
-
 ---
 
 ## ▶️ Running the Tests
@@ -127,9 +107,7 @@ Browser: Chromium
 Execution Time: 2m 30s
 ```
 
----
-
-## 🧠 QA Practices Followed
+##  QA Practices Followed
 
 * Page Object Model (POM)
 * Stable locator strategies
@@ -138,15 +116,12 @@ Execution Time: 2m 30s
 * CI-friendly test design
 * Focus on maintainability and reliability
 
----
-
-## 👩‍💻 About Me
-
+##  About Me
 **Ayesha – Quality Engineer / SDET**
 
 * 5+ years Manual Testing experience
 * 1+ year Automation experience
-* Hands-on with **Playwright + TypeScript**
+* Hands-on with Playwright + TypeScript
 * Strong focus on test reliability and CI integration
 
 ---
