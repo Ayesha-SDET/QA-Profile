@@ -60,7 +60,6 @@ QA-Profile/
 │   ├── ui/             # UI test case scripts
 │   ├── api/            # API automation test scripts
 │   └── integration/    # Integration test scenarios
-
 ├── reports/          # HTML reports
 ├── utils/
 │   ├── randomDataGenerator.ts     # generate random test data
