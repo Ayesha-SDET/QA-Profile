@@ -52,13 +52,21 @@ Tests are:
 
 ```
 QA-Profile/
-├── playwright.config.ts
+├── README.md     # About the project and how it’s organized (this file)
+├── docs/         # test strategy showing planning and QA approach
+├── data/         # Reusable test data
+├── pages/        # Page Object Models
 ├── tests/
-│   ├── pages/        # Page Object Models
-│   └── specs/        # Test scenarios
-├── test-data/        # Reusable test data
+│   ├── ui/             # UI test case scripts
+│   ├── api/            # API automation test scripts
+│   └── integration/    # Integration test scenarios
+
 ├── reports/          # HTML reports
-├── .github/workflows # CI pipeline
+├── utils/
+│   ├── randomDataGenerator.ts     # generate random test data
+│   ├── dataProvider.ts          # Login authentication helpers
+├── playwright.config.ts
+├── playwright.yml # CI pipeline
 ├── package.json
 └── README.md
 ```
@@ -97,15 +105,6 @@ After execution, Playwright provides:
 * Execution time per test
 * Detailed HTML report
 
-Example:
-
-```
-Total Tests: 15
-Passed: 14
-Failed: 1
-Browser: Chromium
-Execution Time: 2m 30s
-```
 
 ##  QA Practices Followed
 
