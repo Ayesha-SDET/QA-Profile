@@ -1,4 +1,4 @@
-## 👋 Overview
+## Overview
 
 This repository demonstrating my experience as a Quality Engineer / SDET working with Playwright and TypeScript.The focus of this project is to show how I design, write, and maintain realistic, reliable UI automation that fits into a modern development workflow — not just isolated test scripts.
 
@@ -64,7 +64,7 @@ QA-Profile/
 ```
 ---
 
-## ▶️ Running the Tests
+##  Running the Tests
 
 ### Run Locally
 
@@ -88,7 +88,7 @@ npx playwright show-report
 
 ---
 
-## 📊 Example Output
+##  Example Output
 
 After execution, Playwright provides:
 
@@ -126,7 +126,7 @@ Execution Time: 2m 30s
 
 ---
 
-## 🚀 Future Improvements
+##  Future Improvements
 
 * Expand coverage for edge cases
 * Add API automation alongside UI tests
