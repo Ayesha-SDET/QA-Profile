@@ -1,16 +1,15 @@
 export class TestConfig{
  
-    appUrl="http://localhost/opencart/upload/"
-    //appUrl="https://naveenautomationlabs.com/opencart"
-    //appUrl="https://tutorialsninja.com/demo/"
+    appUrl="https://tutorialsninja.com/demo/"
     
   
     //valid login credentials
-    email="pavanol@abc.com"
-    password="test@123"
+    email="ayeshahep@gmail.com"
+    password="hep786990"
 
     //product details
-    productName="MacBook"
-    productQuantity="2"
-    totalPrice="$1,204.00"
+    productName="Tablets"
+    productQuantity="5"
+    totalPrice="$241.99"
+
 }
