@@ -1,6 +1,6 @@
 ## Overview
 
-This repository demonstrating my experience as a Quality Engineer / SDET working with Playwright and TypeScript.The focus of this project is to show how I design, write, and maintain realistic, reliable UI automation that fits into a modern development workflow — not just isolated test scripts.
+This repository demonstrating my experience as a Quality Engineer / SDET working with Playwright and TypeScript.The focus of this project is to show how I design, write, and maintain realistic, reliable UI automation that fits into a modern development workflow not just isolated test scripts.
 
 ---
 
